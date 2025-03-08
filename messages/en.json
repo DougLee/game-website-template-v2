@@ -1,15 +1,15 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Split Fiction",
+  "slogan": "Experience the new Split Fiction adventure",
+  "description": "Dive into the musical world of Split Fiction and unleash your creativity!",
   "Loading": {
-    "title": ""
+    "title": "Loading Split Fiction..."
   },
-  "Navbar":{
-    "title": "Nav"
+  "Navbar": {
+    "title": "Navigation"
   },
   "Common": {
-    "createAt": "Create At",
+    "createAt": "Created At",
     "guide": "Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfServices": "Terms of Services",
@@ -18,53 +18,53 @@
     "friendlyLinks": "Friendly Links",
     "articleList": "Article List",
     "home": "Home",
-    "next":"Next",
-    "previous":"Previous"
+    "next": "Next",
+    "previous": "Previous"
   },
   "HomeIframe": {
-    "title": "",
+    "title": "Discover Split Fiction",
     "description": "",
-    "iframeTitle": "Game Preview",
+    "iframeTitle": "Split Fiction Preview",
     "fullscreenButton": "Fullscreen",
     "shareButton": "Share",
     "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
+    "downloadGame": "Download Split Fiction",
     "playGame": "Play Game"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "Split Fiction: A New Musical Journey",
+    "whatIsTitle": "What is Split Fiction?",
+    "whatIsDescription": "Split Fiction is a fan-modified game offering unique music-mixing with custom sounds and new characters. Join a world of beats, vocals, and melodies combined to create your tracks.",
+    "howToPlayTitle": "How to Play Split Fiction",
+    "howToPlayStep1": "Launch the Game: Access it online and get started.",
+    "howToPlayStep2": "Select Sounds: Explore a variety of beats, effects, and vocals.",
+    "howToPlayStep3": "Mix & Match: Drag sounds to characters and innovate your track.",
+    "keyFeaturesTitle": "Key Features of Split Fiction",
+    "feature1Title": "New Musical Styles",
+    "feature1Description": "Experience fresh and diverse musical styles that enhance gameplay.",
+    "feature2Title": "Creative Freedom",
+    "feature2Description": "Enjoy expanded creative freedom with special sounds and characters.",
+    "feature3Title": "Optimized for Mobile",
+    "feature3Description": "Play Split Fiction seamlessly on your mobile device.",
+    "feature4Title": "Free to Play",
+    "feature4Description": "Engage without limits - Split Fiction is completely free!"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "FAQs about Split Fiction"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Split Fiction Video"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Recommended Games"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Comments on Split Fiction"
   },
   "GamePage": {
     "title": "All Games",
     "description": "All Games",
-    "games":"Games"
+    "games": "Games"
   },
   "CategoryPage": {
     "categories": "Categories",

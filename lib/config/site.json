@@ -1,12 +1,12 @@
 {
-  "name": "",
+  "name": "Repo Game",
   "slogan": "slogan",
   "domain": "",
   "icon": "/favicon.ico",
   "appleIcon": "/apple-touch-icon.png",
-  "templateType":"single-game",
+  "templateType": "single-game",
   "theme": {
-    "name":"dark",
+    "name": "dark",
     "headFont": "Arial, sans-serif",
     "primaryColor": "#007bff",
     "fontColor": "#333333",
@@ -21,7 +21,7 @@
   "bgType": "iframe",
   "bgImage": "",
   "bgVideo": "",
-  "friendLinks":[],
+  "friendLinks": [],
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
@@ -43,9 +43,7 @@
   "isShowComments": true,
   "isShowTweets": false,
   "useRealTweets": false,
-  "tweets": [
-    ""
-  ],
+  "tweets": [""],
   "comments": [
     {
       "author": "",

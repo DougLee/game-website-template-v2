@@ -1,5 +1,5 @@
 {
-  "name": "Sprunki Retake",
+  "name": "Split Fiction",
   "slogan": "slogan",
   "domain": "https://sprunkiretake.fun",
   "icon": "/favicon.ico",
@@ -27,7 +27,7 @@
       "href": "/t"
     }
   ],
-  "gameType": "popup",
+  "gameType": "iframe",
   "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
   "gameRedirectUrl": "",
   "bgType": "image",
@@ -63,9 +63,7 @@
   "isShowComments": true,
   "isShowTweets": false,
   "useRealTweets": false,
-  "tweets": [
-    ""
-  ],
+  "tweets": [""],
   "comments": [
     {
       "author": "Lorenz S.",
@@ -121,8 +119,8 @@
     "type": "video",
     "ratio": "16:9",
     "size": "1080x608",
-    "materialUrl": "https://youtu.be/4txANWeI4kY",
-    "clickUrl": "https://www.heartvoicegifts.com?utm_campaign=AF-FaFaFa-5196&utm_medium=FaFaFa",
-    "title": "Personalized Bobblehead Video"
+    "materialUrl": "",
+    "clickUrl": "",
+    "title": ""
   }
 }

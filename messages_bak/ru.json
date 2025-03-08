@@ -1,65 +1,65 @@
 {
-  "title": "Sprunki Retake ($Sprunki Retake)",
-  "slogan": "Исследуйте новое приключение Sprunki Retake",
-  "description": "Погрузитесь в музыкальный мир Sprunki Retake и раскройте свою творческую силу!",
+  "title": "",
+  "slogan": "",
+  "description": "",
   "Loading": {
-    "title": "Загрузка Sprunki Retake..."
+    "title": ""
   },
   "Navbar": {
-    "title": "Навигация"
+    "title": "Nav"
   },
   "Common": {
-    "createAt": "Создано",
+    "createAt": "Дата создания",
     "guide": "Руководство",
     "privacyPolicy": "Политика конфиденциальности",
-    "termsOfServices": "Условия обслуживания",
+    "termsOfServices": "Условия использования",
     "text": "Содержание",
     "help": "Помощь",
-    "friendlyLinks": "Дружественные ссылки",
-    "articleList": "Article List",
-    "home": "Home",
+    "friendlyLinks": "Полезные ссылки",
+    "articleList": "Список статей",
+    "home": "Главная",
     "next": "Следующий",
     "previous": "Предыдущий"
   },
   "HomeIframe": {
-    "title": "Откройте Sprunki Retake",
-    "description": "Погрузитесь в Sprunki Retake прямо в своем браузере. Нет необходимости в загрузке - бесконечная музыкальная радость ждет вас!",
-    "iframeTitle": "Предварительный просмотр Sprunki Retake",
-    "fullscreenButton": "Полный экран",
-    "shareButton": "Поделиться",
-    "urlCopied": "URL скопирован в буфер обмена!",
-    "downloadGame": "Скачать Sprunki Retake",
+    "title": "",
+    "description": "",
+    "iframeTitle": "Game Preview",
+    "fullscreenButton": "Fullscreen",
+    "shareButton": "Share",
+    "urlCopied": "URL copied to clipboard!",
+    "downloadGame": "Download Game",
     "playGame": "Играть в игру"
   },
   "HomeFeatures": {
-    "gameTitle": "Sprunki Retake: Новое музыкальное путешествие ($Sprunki Retake)",
-    "whatIsTitle": "Что такое Sprunki Retake?",
-    "whatIsDescription": "Sprunki Retake - это модифицированная игроками игра, предлагающая уникальное микширование музыки с пользовательскими звуками и новыми персонажами. Присоединяйтесь к миру ритмов, вокалов и мелодий, объединенных для создания своих треков.",
-    "howToPlayTitle": "Как играть в Sprunki Retake",
-    "howToPlayStep1": "Запустить игру: Получите доступ к ней в Интернете и начните.",
-    "howToPlayStep2": "Выбрать звуки: Исследуйте различные ритмы, эффекты и вокалы.",
-    "howToPlayStep3": "Микшировать и совмещать: Перетащите звуки на персонажей и создайте свой трек.",
-    "keyFeaturesTitle": "Основные особенности Sprunki Retake",
-    "feature1Title": "Новые музыкальные стили",
-    "feature1Description": "Исследуйте свежие и разнообразные музыкальные стили, которые улучшают игровой процесс.",
-    "feature2Title": "Творческая свобода",
-    "feature2Description": "Наслаждайтесь расширенной творческой свободой с использованием специальных звуков и персонажей.",
-    "feature3Title": "Оптимизирован для мобильных устройств",
-    "feature3Description": "Играйте в Sprunki Retake без прерываний на своем мобильном устройстве.",
-    "feature4Title": "Бесплатно",
-    "feature4Description": "Возникните без ограничений - Sprunki Retake совершенно бесплатен!"
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "How to Play",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Key Features",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
   },
   "HomeFAQs": {
-    "title": "Вопросы и ответы о Sprunki Retake"
+    "title": "FAQs"
   },
   "HomeRelatedVideo": {
-    "title": "Видео о Sprunki Retake"
+    "title": "Game Video"
   },
   "HomeRecommendation": {
-    "title": "Рекомендуемые игры"
+    "title": "Recommends"
   },
   "HomeComments": {
-    "title": "Комментарии о Sprunki Retake"
+    "title": "Play Comments"
   },
   "GamePage": {
     "title": "Все игры",
